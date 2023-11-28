@@ -1,4 +1,5 @@
 ### Hi there 👋, Iam J Sujan Chowdary 
+- 🌱 I’m currently learning ...
 
 <!--
 **Jsujanchowdary/JSujanchowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
